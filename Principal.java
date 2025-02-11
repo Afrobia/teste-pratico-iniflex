@@ -2,6 +2,8 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
+import src.Funcionario;
+
 public class Principal {
     private List<Funcionario> funcionarios;
 
